@@ -23,7 +23,7 @@ int gcd(int a, int b)
 {
     int q, r1, r2, r;
 
-    if (a > b):
+    if (a > b)
     {
         r1 = A;
         r2 = b;
